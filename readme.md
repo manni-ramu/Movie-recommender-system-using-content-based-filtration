@@ -3,25 +3,6 @@
 
 Welcome to the Movie Recommendation System project! This app recommends movies based on their content features using Streamlit for the user interface.
 
-## 📦 Installation
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/movie-recommendation-app.git
-   cd movie-recommendation-app
-   ```
-
-2. Create a virtual environment (optional but recommended):
-   ```sh
-   python -m venv venv
-   source venv/bin/activate      # On Windows: venv\Scripts\activate
-   ```
-
-3. Install the required packages:
-   ```sh
-   pip install -r requirements.txt
-   ```
-
 ## 🚀 Usage
 
 1. Place your movie data and content features in the appropriate files.
@@ -55,13 +36,5 @@ Welcome to the Movie Recommendation System project! This app recommends movies b
 
 ## 🙏 Credits
 
-This project was created by [Your Name] for educational purposes. Movie data is sourced from [source of movie data].
+This project was created by manni for educational purposes. Movie data is sourced from kaggle.
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to modify this README to fit your project. Replace `[Your Name]` and `[source of movie data]` with appropriate information.
-```
-
-Feel free to customize this README by adding or removing sections and emojis to match your project's style and content.
