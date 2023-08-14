@@ -1,4 +1,4 @@
-```markdown
+
 # 🍿 Movie Recommendation System using Content-Based Filtering 🎥
 
 Welcome to the Movie Recommendation System project! This app recommends movies based on their content features using Streamlit for the user interface.
@@ -10,7 +10,7 @@ Welcome to the Movie Recommendation System project! This app recommends movies b
 2. Run the Streamlit app:
    ```sh
    streamlit run app.py
-   ```
+   '''
 
 3. Access the Streamlit app in your web browser at `http://localhost:8501`.
 
